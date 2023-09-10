@@ -1687,7 +1687,7 @@ h6,
 
 h1,
 .uk-h1 {
-    font-size: 3.25rem;
+    font-size: 2.275rem;
     line-height: 1.1077
 }
 
@@ -1725,7 +1725,7 @@ h6,
 
     h1,
     .uk-h1 {
-        font-size: 3.25rem
+        font-size: 2.275rem
     }
 
     h2,
@@ -1900,67 +1900,67 @@ a.uk-link-reset,
 }
 
 .uk-heading-small {
-    font-size: 2.6rem;
+    font-size: 1.82rem;
     line-height: 1.2
 }
 
 .uk-heading-medium {
-    font-size: 2.8875rem;
+    font-size: 2.02rem;
     line-height: 1.1
 }
 
 .uk-heading-large {
-    font-size: 3.4rem;
+    font-size: 2.38rem;
     line-height: 1.1
 }
 
 .uk-heading-xlarge {
-    font-size: 4rem;
+    font-size: 2.8rem;
     line-height: 1
 }
 
 .uk-heading-2xlarge {
-    font-size: 6rem;
+    font-size: 4.2rem;
     line-height: 1
 }
 
 @media (min-width:1020px) {
     .uk-heading-small {
-        font-size: 3.25rem
+        font-size: 2.275rem
     }
 
     .uk-heading-medium {
-        font-size: 3.5rem
+        font-size: 2.45rem
     }
 
     .uk-heading-large {
-        font-size: 4rem
+        font-size: 2.8rem
     }
 
     .uk-heading-xlarge {
-        font-size: 6rem
+        font-size: 4.2rem
     }
 
     .uk-heading-2xlarge {
-        font-size: 8rem
+        font-size: 5.6rem
     }
 }
 
 @media (min-width:1200px) {
     .uk-heading-medium {
-        font-size: 4rem
+        font-size: 2.8rem
     }
 
     .uk-heading-large {
-        font-size: 6rem
+        font-size: 4.2rem
     }
 
     .uk-heading-xlarge {
-        font-size: 8rem
+        font-size: 5.6rem
     }
 
     .uk-heading-2xlarge {
-        font-size: 11rem
+        font-size: 7.7rem
     }
 }
 
@@ -4053,13 +4053,13 @@ select.uk-form-width-xsmall {
 }
 
 .uk-article-title {
-    font-size: 2.7625rem;
+    font-size: 1.932rem;
     line-height: 1.2
 }
 
 @media (min-width:1020px) {
     .uk-article-title {
-        font-size: 3.25rem
+        font-size: 2.275rem
     }
 }
 
@@ -4257,7 +4257,7 @@ select.uk-form-width-xsmall {
 .uk-search-large .uk-search-input {
     height: 80px;
     background: rgba(0, 0, 0, 0);
-    font-size: 3.25rem
+    font-size: 2.275rem
 }
 
 .uk-search-large .uk-search-icon {
@@ -5859,18 +5859,18 @@ ul.uk-nav-sub {
 }
 
 .uk-countdown-number {
-    font-size: 2rem
+    font-size: 1.4rem
 }
 
 @media (min-width:700px) {
     .uk-countdown-number {
-        font-size: 4rem
+        font-size: 2.8rem
     }
 }
 
 @media (min-width:1020px) {
     .uk-countdown-number {
-        font-size: 6rem
+        font-size: 4.2rem
     }
 }
 
@@ -5880,13 +5880,13 @@ ul.uk-nav-sub {
 
 @media (min-width:700px) {
     .uk-countdown-separator {
-        font-size: 2rem
+        font-size: 1.4rem
     }
 }
 
 @media (min-width:1020px) {
     .uk-countdown-separator {
-        font-size: 3rem
+        font-size: 2.1rem
     }
 }
 
